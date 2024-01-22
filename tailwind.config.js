@@ -1,6 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./public/*.{html,js}"],
+  content: ["./*.{html,js}"],
   theme: {
     fontFamily: {
       'myFont': ['Paytone One', 'sans-serif'],
