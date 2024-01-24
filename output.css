@@ -608,8 +608,8 @@ video {
   right: -118px;
 }
 
-.right-\[-22\.5rem\]{
-  right: -22.5rem;
+.right-\[-18\.5rem\]{
+  right: -18.5rem;
 }
 
 .right-\[-6rem\]{
@@ -624,8 +624,8 @@ video {
   right: 1.75rem;
 }
 
-.right-\[30rem\]{
-  right: 30rem;
+.right-\[20rem\]{
+  right: 20rem;
 }
 
 .right-\[36px\]{
@@ -662,10 +662,6 @@ video {
 
 .top-\[7rem\]{
   top: 7rem;
-}
-
-.right-\[-18\.5rem\]{
-  right: -18.5rem;
 }
 
 .z-50{
@@ -743,12 +739,12 @@ video {
   margin-left: 1.25rem;
 }
 
-.ms-5{
-  margin-inline-start: 1.25rem;
-}
-
 .ms-\[2px\]{
   margin-inline-start: 2px;
+}
+
+.ms-\[4\.75rem\]{
+  margin-inline-start: 4.75rem;
 }
 
 .mt-0{
@@ -868,6 +864,10 @@ video {
   width: 14rem;
 }
 
+.w-\[16rem\]{
+  width: 16rem;
+}
+
 .w-\[18\.25rem\]{
   width: 18.25rem;
 }
@@ -882,10 +882,6 @@ video {
 
 .w-\[20rem\]{
   width: 20rem;
-}
-
-.w-\[22rem\]{
-  width: 22rem;
 }
 
 .w-\[23rem\]{
@@ -920,6 +916,10 @@ video {
   width: 339px;
 }
 
+.w-\[36px\]{
+  width: 36px;
+}
+
 .w-\[388\.878px\]{
   width: 388.878px;
 }
@@ -932,12 +932,20 @@ video {
   width: 390px;
 }
 
-.w-\[40rem\]{
-  width: 40rem;
+.w-\[39rem\]{
+  width: 39rem;
 }
 
 .w-\[4rem\]{
   width: 4rem;
+}
+
+.w-\[559px\]{
+  width: 559px;
+}
+
+.w-\[596px\]{
+  width: 596px;
 }
 
 .w-\[6rem\]{
@@ -960,12 +968,76 @@ video {
   width: 100%;
 }
 
+.w-\[15rem\]{
+  width: 15rem;
+}
+
+.w-\[34px\]{
+  width: 34px;
+}
+
+.w-\[468px\]{
+  width: 468px;
+}
+
+.w-\[35rem\]{
+  width: 35rem;
+}
+
+.w-\[31rem\]{
+  width: 31rem;
+}
+
+.w-\[634px\]{
+  width: 634px;
+}
+
+.w-\[600px\]{
+  width: 600px;
+}
+
+.w-\[43rem\]{
+  width: 43rem;
+}
+
+.w-\[17rem\]{
+  width: 17rem;
+}
+
+.w-\[23px\]{
+  width: 23px;
+}
+
+.w-\[2px\]{
+  width: 2px;
+}
+
+.w-\[508px\]{
+  width: 508px;
+}
+
+.w-\[562px\]{
+  width: 562px;
+}
+
 .max-w-72{
   max-width: 18rem;
 }
 
+.max-w-7xl{
+  max-width: 80rem;
+}
+
 .max-w-\[100\%\]{
   max-width: 100%;
+}
+
+.max-w-\[85\.5rem\]{
+  max-width: 85.5rem;
+}
+
+.max-w-\[90\%\]{
+  max-width: 90%;
 }
 
 .rotate-90{
@@ -1287,6 +1359,14 @@ video {
   font-size: 10.542px;
 }
 
+.text-\[14px\]{
+  font-size: 14px;
+}
+
+.text-\[18px\]{
+  font-size: 18px;
+}
+
 .text-\[1rem\]{
   font-size: 1rem;
 }
@@ -1432,8 +1512,8 @@ video {
     right: 0px;
   }
 
-  .md\:right-\[-30\.5rem\]{
-    right: -30.5rem;
+  .md\:right-\[-32\.5rem\]{
+    right: -32.5rem;
   }
 
   .md\:right-\[0\.25rem\]{
@@ -1459,12 +1539,8 @@ video {
     margin-bottom: auto;
   }
 
-  .md\:ms-16{
-    margin-inline-start: 4rem;
-  }
-
-  .md\:ms-\[1\.75rem\]{
-    margin-inline-start: 1.75rem;
+  .md\:ms-\[2\.75rem\]{
+    margin-inline-start: 2.75rem;
   }
 
   .md\:mt-10{
@@ -1495,44 +1571,56 @@ video {
     display: none;
   }
 
+  .md\:w-10{
+    width: 2.5rem;
+  }
+
   .md\:w-\[105px\]{
     width: 105px;
+  }
+
+  .md\:w-\[11rem\]{
+    width: 11rem;
   }
 
   .md\:w-\[145px\]{
     width: 145px;
   }
 
-  .md\:w-\[14rem\]{
-    width: 14rem;
+  .md\:w-\[16rem\]{
+    width: 16rem;
   }
 
   .md\:w-\[22rem\]{
     width: 22rem;
   }
 
+  .md\:w-\[236px\]{
+    width: 236px;
+  }
+
   .md\:w-\[26rem\]{
     width: 26rem;
   }
 
-  .md\:w-\[30rem\]{
-    width: 30rem;
+  .md\:w-\[300px\]{
+    width: 300px;
   }
 
-  .md\:w-\[356px\]{
-    width: 356px;
+  .md\:w-\[359px\]{
+    width: 359px;
   }
 
   .md\:w-\[36rem\]{
     width: 36rem;
   }
 
-  .md\:w-\[440px\]{
-    width: 440px;
+  .md\:w-\[41\.25rem\]{
+    width: 41.25rem;
   }
 
-  .md\:w-\[56\.25rem\]{
-    width: 56.25rem;
+  .md\:w-\[96px\]{
+    width: 96px;
   }
 
   .md\:w-auto{
@@ -1571,8 +1659,8 @@ video {
     padding-inline-end: 0px;
   }
 
-  .md\:ps-\[0rem\]{
-    padding-inline-start: 0rem;
+  .md\:ps-\[3rem\]{
+    padding-inline-start: 3rem;
   }
 
   .md\:pt-\[9\.5rem\]{
@@ -1602,8 +1690,12 @@ video {
     line-height: 1;
   }
 
-  .md\:text-\[15px\]{
-    font-size: 15px;
+  .md\:text-\[12px\]{
+    font-size: 12px;
+  }
+
+  .md\:text-\[56px\]{
+    font-size: 56px;
   }
 
   .md\:font-normal{
@@ -1622,10 +1714,6 @@ video {
 @media (min-width: 1024px){
   .lg\:static{
     position: static;
-  }
-
-  .lg\:ms-0{
-    margin-inline-start: 0px;
   }
 
   .lg\:mt-10{
